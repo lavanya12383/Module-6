@@ -47,7 +47,6 @@ Ob2 = complex(2, 3)
 print("(5.0, 7.0)")
 
 
-```
 
 ### OUTPUT
 
