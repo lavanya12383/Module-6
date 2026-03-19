@@ -79,4 +79,4 @@ k.sides()
 
 
 ### RESULT
-This program for abstract base class named Polygon and also define the abstract method is sucessfully executed.
+This program for  abstract base class named Polygon and also define the abstract method is sucessfully executed.
